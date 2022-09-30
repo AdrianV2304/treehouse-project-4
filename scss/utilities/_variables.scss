@@ -1,0 +1,20 @@
+// ======================================
+// Variables
+// ======================================
+
+$first-color: #58e1c1;
+$second-color: #777;
+$third-color: #51ddfc;
+$fourth-color: #fff;
+$fifth-color: #e4757a;
+$info-color: #927bc1;
+$success-color: #63cc82;
+$warning-color: #fd7856;
+
+$third-color-light: lighten($third-color, 15%);
+$fifth-color-light: lighten($fifth-color, 15%);
+$info-color-light: lighten($info-color, 15%);
+$success-color-light: lighten($success-color, 15%);
+$warning-color-light: lighten($warning-color, 15%);
+
+$breakpoint: 768px;
